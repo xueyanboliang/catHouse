@@ -1,3 +1,2 @@
 # catHouse
-Just one repository.
-We'll be better.
+to code better and better.
